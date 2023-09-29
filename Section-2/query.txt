@@ -1,0 +1,17 @@
+1)select first_name , last_name from  , rank from
+mentors;
+
+
+2)select first_name , last_name from   from
+mentors;
+where salary>1000
+
+
+3) select first_name , last_name from   from
+mentors;
+where speciality="English";
+
+4)select student_no from srudents where skill=“Development”;
+
+
+5)select SSN from srudents where skill=“Development”;
