@@ -8,7 +8,7 @@ D. JSX is the engine used by web browser to render Javascript code.
 
 Answer:
 
-------------
+------------ B
 
 Question:
 2. What is the virtual DOM?
@@ -32,7 +32,7 @@ D. A component is essentially a piece of the user interface. It splits the user 
 
 Answer:
 
-------------
+------------D
 
 Question:
 4. What are the types of components in React:
