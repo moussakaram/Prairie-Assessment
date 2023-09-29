@@ -1,3 +1,48 @@
+create table students (
+    stuent_no int primary key,
+    SSN int primary key ,
+    first_name char(255),
+    last_name char(255),
+    DOB date,
+    skill char(255)
+);
+create table Cohort (
+    Rigestred_students int primary key,
+    Cohort_ID int primary key ,
+    number INT,
+    star_date date,
+    end_date date
+);
+
+create table mentors (
+    SSN int primary key ,
+    first_name char(255),
+    last_name char(255),
+    DOB date,
+    level int,
+    salary float,
+    office char(255)
+    Speciality char(255)
+);
+
+create table topics (
+ID int primary key,
+title char(255)
+description char(255)
+);
+
+create table Department (
+ID int primary key,
+name char(255)
+description char(255),
+topic_spe  char(255)
+);
+
+
+
+
+
+
 1)select first_name , last_name from  , rank from
 mentors;
 
